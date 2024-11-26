@@ -1,0 +1,4 @@
+html5-video-player ytp-transparent ytp-exp-bottom-control-flexbox ytp-modern-caption ytp-exp-ppp-update ytp-fit-cover-video ytp-bigboards ytp-fine-scrubbing-exp ytp-hide-info-bar ytp-large-width-mode ytp-heat-map-v2 ytp-heat-map ytp-autonav-endscreen-cancelled-state ytp-iv-drawer-enabled ytp-progress-bar-decoration ad-created ad-showing ad-interrupting paused-mode
+
+
+video-ads ytp-ad-module
